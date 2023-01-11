@@ -7,4 +7,4 @@ Merupakan hasil convert dari **`Figma`** ke **`Flutter`** menggunakan bantuan **
 ![exports](figma/Artikel.png)
 ![exports](figma/OpenMenu.png)
 ![exports](figma/Pendaftaran.png)
-![exports](figma/Jurusan1.png)
+![exports](figma/DP/Jurusan1.png)
